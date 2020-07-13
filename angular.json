@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Day6Assignment"
+    }
+  },
+  "defaultProject": "Day6Assignment",
+  "cli": {
+    "analytics": false
+  }
 }
